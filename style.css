@@ -1,0 +1,33 @@
+body{
+    background-color: black;
+}
+
+article{
+    background-color: #1f1f1f;
+    color: white;
+    text-align: center;
+    width: 250px;
+    margin: 25% auto;
+    padding: 20px 0;
+    border-radius: 10px;
+}
+
+h3{
+    color: rgb(177 193 100);
+}
+
+img{
+    width: 70px;
+    border-radius: 50%;
+}
+
+button{
+    display: block;
+    margin: 10px auto;
+    width: 80%;
+    height: 30px;
+    border-radius: 10px;
+    background-color: #333;
+    color: white;
+    border: none;
+}
